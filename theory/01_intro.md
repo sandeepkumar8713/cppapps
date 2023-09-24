@@ -36,6 +36,7 @@
 2. **Initialization** 
    int int_var {43};
    int *p_int{&int_var};// The address of operator (&);
+   std::cout << "value : " << *p_int << std::endl;
 3. 
 
 
