@@ -1,6 +1,6 @@
 # cppapps
 
-This code is compatible with c++20 [Link](https://en.wikipedia.org/wiki/C%2B%2B20).
+This code is compatible with c++20 [Wiki](https://en.wikipedia.org/wiki/C%2B%2B20).
 
 [YouTube](https://www.youtube.com/watch?v=8jLOx1hD3_o&t=6359s)
 [GitHub](https://github.com/rutura/The-C-20-Masterclass-Source-Code)
